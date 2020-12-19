@@ -11,3 +11,12 @@ This repo contains basics of JavaScript and Some basic projects.
 9. AJAX
 10. call back.
 11. Promise, then, catch
+12. Arrow functions
+13. Fetch API
+14. async and await
+15. try, catch, finally and custom error.
+
+# javascript projects
+1. Notes App - includes concepts like DOM, addEventListener, functions, localstorage, JSON stringify and JSON parse.
+2. Basic Library management: DOM, functions, prototype, click listener.
+3. News website: using AJAX( older version of fetching data from API) , asyn programming.
