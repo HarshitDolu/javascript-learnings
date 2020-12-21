@@ -19,6 +19,9 @@ This repo contains basics of JavaScript and Some basic projects.
 17. Regex metaCharacters.
 18. Regex characterSets
 19. shorthand character functions
+20. iterator
+21. Generator
+22. For in & For of
 
 
 # javascript projects
@@ -26,3 +29,4 @@ This repo contains basics of JavaScript and Some basic projects.
 2. Basic Library management: DOM, functions, prototype, click listener.
 3. News website: using AJAX( older version of fetching data from API) , asyn programming.
 4. Form validator: using Regular expressions in name, email and phone fields.
+5. CV Screener: using iterator, DOM, addEventListener
